@@ -1,1 +1,1 @@
-"# Google_Cloud_Vision_API-" 
+"# Google_Cloud_Vision_API" 
